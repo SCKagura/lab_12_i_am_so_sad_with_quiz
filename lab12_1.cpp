@@ -6,8 +6,7 @@ using namespace std ;
 int main () {
     int random ;
     string grade;
-    srand(time(0));
-cout << "Press Enter 3 times to reveal your future.";
+    cout << "Press Enter 3 times to reveal your future.";
 cin.get() ;
 cin.get() ;
 cin.get() ;
